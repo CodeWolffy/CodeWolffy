@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi，我是 Wolffy 👋
+
+**后端开发者 / AI 编程实践者**
+
+26 年软件工程专业毕业.
+
+[狼码纪](https://codewolffy.github.io/)个人博客做技术积累
+
+
 
 <!--
 **CodeWolffy/CodeWolffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
