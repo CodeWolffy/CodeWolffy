@@ -117,14 +117,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeWolffy&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWolffy&layout=compact&theme=vue&hide_title=true" />
-</div>
-
----
 
 ### 🌐 Find Me
 
