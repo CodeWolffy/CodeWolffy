@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hey, I'm Wolffy
+    Hi, I'm Wolffy
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
   </h1>
   <h3>后端开发者 · 分布式系统爱好者 · AI 编程实践者</h3>
@@ -61,45 +61,12 @@
 
 ### 📌 Featured Projects
 
-#### [CodeWolffy/papercheck](https://github.com/CodeWolffy/papercheck) — 自建库论文查重系统
-
-前后端分离的自建库论文查重平台，适用于高校毕业论文校内互检场景。
-
-- 🧠 **9 种检测算法**：连续文本匹配、指纹索引、同义词归一化、语义向量检测等
-- 🔐 **完善权限体系**：JWT 鉴权、角色管理、日配额限制、登录失败限流
-- 📊 **可视化报告**：左右对照原文与库内来源，红色高亮重复片段，支持 PDF 导出
-- 🤖 **AI 降重指南**：提供自查清单与一键复制的 AI 降重提示词
-- 🏗️ **技术栈**：Python / FastAPI + Vue 3 / Element Plus + MySQL + sentence-transformers
-
-#### [CodeWolffy/enterprise-auth-platform](https://github.com/CodeWolffy/enterprise-auth-platform) — 企业级管理后台基座
-
-用于快速孵化企业管理后台的通用底座，内置认证、RBAC、多租户、组织架构、系统管理、日志、通知、文件、工作流、代码生成等横向能力。
-
-- 🔐 **认证与安全**：账号密码登录、滑块验证码、登录风控、会话管理与强制下线
-- 🏢 **组织与权限**：RBAC + 菜单权限 + 按钮权限码，多租户隔离与租户套餐
-- 🛠️ **效率工具**：代码生成、轻量审批流、文件存储（MinIO/S3/本地）、站内通知 SSE
-- 📐 **工程规范**：四层架构（interfaces/application/domain/infrastructure）+ ArchUnit 模块边界守护
-- 🏗️ **技术栈**：Java 17 / Spring Boot 3.5 + Sa-Token / MyBatis-Plus / Redis / Redisson + Vue 3 / Vben Admin v5
-
-#### [CodeWolffy/str-reservation](https://github.com/CodeWolffy/str-reservation) — 学习空间预约管理系统
-
-基于 Spring Boot + Vue 3 的现代化学习空间预约管理平台，专为高校、图书馆、自习室等场景设计。
-
-- 🪑 **可视化座位布局**：自定义行列布局、拖拽式操作、实时座位状态
-- ⏰ **完整预约生命周期**：待审批 → 待签到 → 已签到 → 已完成/缺席/违规，自动签退与缺席检测
-- 🐇 **RabbitMQ 延迟队列**：预约到期自动签退、超时未签到自动标记缺席
-- 🔔 **实时消息通知**：WebSocket 推送预约状态变更、签到提醒、违约警告
-- 📊 **数据可视化**：ECharts 展示空间使用率、热门时段、预约趋势
-- 🏗️ **技术栈**：Java 17 / Spring Boot 2.7 + MyBatis-Plus / Druid / JWT / RabbitMQ / WebSocket + Vue 3 / Pinia / Element Plus
-
-#### [CodeWolffy/codewolffy.github.io](https://github.com/CodeWolffy/codewolffy.github.io) — 狼码纪技术博客
-
-基于 Astro + React + Tailwind CSS 构建的现代个人技术博客。
-
-- ⚡ Astro 静态生成，暗色模式无闪烁
-- 🔍 集成 Pagefind 全文搜索，支持中文分词
-- 💬 Giscus 评论系统、RSS 订阅、音乐播放器
-- 🎨 玻璃拟态视觉设计与响应式布局
+| 项目 | 简介 | 技术栈 |
+| :--- | :--- | :--- |
+| **[enterprise-auth-platform](https://github.com/CodeWolffy/enterprise-auth-platform)** | 企业级管理后台基座，内置认证、RBAC、多租户、工作流、代码生成等横向能力 | Java 17 / Spring Boot 3.5 + Sa-Token / MyBatis-Plus + Vue 3 / Vben Admin |
+| **[str-reservation](https://github.com/CodeWolffy/str-reservation)** | 学习空间预约管理系统，可视化座位布局、RabbitMQ 延迟队列、WebSocket 实时通知 | Java 17 / Spring Boot 2.7 + MyBatis-Plus + Vue 3 / Pinia / Element Plus |
+| **[codewolffy.github.io](https://github.com/CodeWolffy/codewolffy.github.io)** | 狼码纪技术博客，Astro 静态生成、Pagefind 搜索、Giscus 评论、RSS 与音乐播放器 | Astro + React + Tailwind CSS |
+| **[papercheck](https://github.com/CodeWolffy/papercheck)** | 自建库论文查重平台，支持 9 种检测算法、JWT 权限、可视化对照报告与 AI 降重指南 | Python / FastAPI + Vue 3 / Element Plus + MySQL |
 
 ---
 
@@ -135,20 +102,3 @@
     <a href="https://codewolffy.github.io/">狼码纪</a>
   </sub>
 </div>
-
-
-
-<!--
-**CodeWolffy/CodeWolffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
