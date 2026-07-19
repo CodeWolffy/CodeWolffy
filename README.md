@@ -6,7 +6,7 @@
   <h3>后端开发者 · 分布式系统爱好者 · AI 编程实践者</h3>
 
   <p>
-    <a href="https://codewolffy.github.io/"><img src="https://img.shields.io/badge/博客-狼码纪-FF6B35?style=for-the-badge&logo=hexo&logoColor=white" /></a>
+    <a href="https://codewolffy.github.io/"><img src="https://img.shields.io/badge/Website-狼码纪-FF6B35?style=for-the-badge&logo=hexo&logoColor=white" /></a>
     <a href="https://github.com/CodeWolffy"><img src="https://img.shields.io/badge/GitHub-CodeWolffy-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
