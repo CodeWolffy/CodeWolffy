@@ -70,21 +70,6 @@
 
 ---
 
-### 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [本地消息表、事务消息与 Outbox 工程实现](https://codewolffy.github.io/blog/45-database-message-eventual-consistency/)
-- [跨分片分页与分布式 ID 方案](https://codewolffy.github.io/blog/44-sharding-pagination-sorting-id/)
-- [动态刷新中的半新半旧、集群版本漂移](https://codewolffy.github.io/blog/spring-config-dynamic-refresh-consistency/)
-- [调度与执行分离、租约、fencing token](https://codewolffy.github.io/blog/78-horizontally-scalable-scheduled-job-system/)
-- [JOIN FETCH、EntityGraph、DTO 投影](https://codewolffy.github.io/blog/43-hibernate-n-plus-one/)
-<!-- BLOG-POST-LIST:END -->
-
-→ [更多文章](https://codewolffy.github.io/archives/)
-
----
-
-
 ### 🌐 Find Me
 
 [![Blog](https://img.shields.io/badge/🐺%20狼码纪-FF6B35?style=flat-square&logo=hexo&logoColor=white)](https://codewolffy.github.io/)
